@@ -1,0 +1,8 @@
+가상환경에서 진행해라!
+cd C:\Users\a\Desktop\MS AI School(2기)\23.09.14
+git clone https://github.com/Donghwi00/flask.git
+cd flask
+dir
+python app.py
+code .
+requirements.txt 생성
